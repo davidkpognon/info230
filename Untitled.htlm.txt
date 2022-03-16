@@ -1,0 +1,27 @@
+Javascript: syntax of java
+Has no compilation, only interpretation by js engine in web browser. 
+
+Only language running on web front
+
+syntax between python and java strong type checking
+for js:
+<script>... </script>
+Variable var x = 1;
+x is the visible globally
+let y = 2 accessible locally
+
+Javascript can be embedded ina htlm doc
+or stand only that linked to htlm documents similarto css
+
+fucntion (x,y)
+{
+    return x+ y:
+}
+var fname = function(x,y)
+fucntion (x,y)
+{
+    return 2*x+ y:
+}
+x==y really means x and y reflects to the same memory location
+parsegloat("abc") is Nan
+x ==y  <==> at some moments the values happen to be the same
