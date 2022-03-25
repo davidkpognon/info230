@@ -1,0 +1,52 @@
+else if a ==
+'O' 8& b
+1 && carryover == 'O*sum = '1;carryover-'O':)
+else if (a == '0' && b
+=="1 && carryover ==
+*1*)(sum = 'O';carryover='1*;)
+else if (a == '1 && b == '0* 8& carryover == 'O'Xsum =
+: '1';carryover='0*;)
+else if (a == '1 88 b =
+=0 && carryover --
+"1 )sum = '0"; carryover='1';)
+else if (a == '1 && b==
+*1 && carryover == 'O' sum = 'O';carryover='1*;)
+else if (a == '1 8& b == '1 && carryover == '1¥sum =
+'1';carryover='1';)
+return new charl (sum, carryover);
+lladd y to x, × updated
+static void add(char xl, char yD)
+char carryover ="0;
+if (y.length < x.length)
+char zÜ = new char[x.length];
+copy(ZERO,z);
+copyLow(y,z);
+y=z;
+for (int i=x.length-1; i>=0; i--)
+char I sumcarryover = singleDigitAdd(x[], y[i], carryover);
+×[] = sumcarryover[0];
+carryover = sumcarryover[1];
+}
+static void flip(char xI)
+for (int i=0; i « x.length; i++)
+if (xi == '1")
+else
+7
+lla-b=a+ (-b) =a+ (flip + addone)
+static void subtract(char ×I, char yO) // subt y from x
+{
+char z1 = new char[x.length];
+if (y.length < x.length)
+{
+clear(z);
+copyLow(y,z);
+}
+else
+copy(y,z);
+flip(z);
+char one = new char[x.length];
+copy(ZERO, one);
+set(one, one.length-1, '1*);
+add(z, one);
+add(x,z);
+}
