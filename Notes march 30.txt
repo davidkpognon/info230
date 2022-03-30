@@ -1,0 +1,41 @@
+events: 20-30 events
+OS: 100000 events
+onclick
+onkeypress
+onmousedown
+onmouseup
+onmouseover
+onmouseexit
+onfocus
+onblur(losing focus)
+onchange
+onmouseout=function30>
+search(node, target)
+{
+if (node,style.color==target)
+childNodes
+node;
+parentNode
+i=0;i<node.childNodes.ler
+previousSibling(node.childNodes[i],target);
+nextrSibling
+let ele = document.getElementBy('id');
+to delete: ele.parentNote.remove Child(ele);
+ele.let dv = document.create Element("'div");
+ele.dv.id = "meaningfulid";
+let dv.style.cssText=
+"color:red;background-color
+nevsize:17px"
+docdv.innerHTML = "what ever":
+onclick
+lonkeypress
+onmousedown
+lonmouseux
+lonmouseover
+onmouseexit
+onfocus
+(onblur (losing focus)
+onchange
+K«td onclick-function1 ()
+lonmouseover=function20)
+onmouseout=function30>
