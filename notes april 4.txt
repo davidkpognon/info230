@@ -1,0 +1,25 @@
+onkeypress
+onmousediwn
+onmouseup
+onmouseexit onfocus
+onblur (losing focus)
+onchange
+
+window.omload: on completion of fetching page content window.onload 
+
+window.onbeforeunload
+
+< td
+onclick = "javascript:function(3, 4) " onmouseover = function2()
+onmouseout = function3()>
+‹textarea
+name="q1"
+cols="10"
+class="blanklook"
+rows="3"
+style="width: 100%; font-family: times;"
+onkeydown="if(event.keyCode===9)(varv=this.value,s=this.selectionstart,
+onfocus= "doonfocus (f1.91,1) ;larger (f1.q1) ;"
+onblur="doonblur (this, 1)'
+onkeyup="if(event.keyCode===9){showemtable(this,1)}"
+onkeypress="return displaytxt(this, event, 1)"›/textarea›
