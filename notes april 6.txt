@@ -1,0 +1,24 @@
+A normal HTTP request is triggered by clicking on a hyperlink or submitting a form, after which the browser may appear non
+responsive while the browser waits for the server response. A page remains non-responsive until the request is sent to and processed
+by the server, and a response is returned to the browser. This delay may be undesirable for some web applications and may annoy
+users if the delay is long.
+Ajax (Asynchronous JavaScript and XML) is a technique to asynchronously communicate with a server and update a web page once
+the response is received, Without reloading the whole web page. An asynchronous request occurs when the web application sends a
+request to the server and continues running without waiting for the server response, Although the X'in Ajax stands for XML. Ajax is
+used to transmit plain. text HTML, XML and JSON
+XMLHttpRequest is an object for communicating with web servers using Ajax. Using the XMLHUpRequest object allows web
+browsers to hide the communication latency and continue to provide a responsive user interface while waiting for a server response
+The XMLHItpRequest object defines handlers for events that occur during the request/response cycle. Ex.
+
+‹script›
+//let movieinfo = document. getElementById ("movieinfo") ;
+let hr = new XMLHttpRequest();
+×hr. addEventListener ("load",
+function){
+document.body. innerHTML
+xhr.response;
+});
+xhr.open ("GET",
+"https://edqaa.com/t/Echo?x=1&y=3");
+×hr.send() ;
+</script>
