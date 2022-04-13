@@ -1,0 +1,16 @@
+on being
+second usage:
+logic Not
+(within a [ ])
+Itask:
+remove all non-digits:
+cardnumber, replace (/L^0-
+191/g, '')
+carnumber. replace (/^[^0-91 /.
+1: on being
+second usage:
+logic Not (within a [1)
+task: remove all non-digits:
+cardnumber.replace(/[^0-
+91/g.")
+remove leading non-digit
