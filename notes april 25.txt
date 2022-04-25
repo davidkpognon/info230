@@ -1,0 +1,24 @@
+function Shape (num, words, urlas, shapename, X,
+V.
+, W, h, fs, cl, ba
+{
+lOO
+15 20 25
+this.onlyimg = function()
+{
+if (this.words == null) return 0;
+var str = this.words.replace(/[ ]+$/,'
+if (str.length›@ && this.urlas=='circular'
+&& this.shapenanie-
+return 3;
+var b = str. length>4 ;
+var b1 = false, b2=false, b3=false;
+if (b)
+{
+b1
+= str.charAt(0)=="I";
+if (b1)
+{
+b2
+=str.charAt(str.length-1)==']";
+if (b2)
