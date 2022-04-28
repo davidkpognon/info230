@@ -1,0 +1,17 @@
+ A container is 400 pixels wide when the browser is wider than 500 pixels, but the container shrinks to 200 pixels when the browser is less than 500 pixels wide. A responsive website will instead smoothly adjust the width of the container to fit the browser width.
+var Exchange
+mode:"'
+id:
+-1,
+act:
+ready: true,
+messages: null,
+receiver: new XMLHt
+init: function()
+{
+Exchange.act
+Exchange.mode
+Exchange.ready
+Exchange.id
+=
+startrecev : funct
